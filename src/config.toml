@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://maekrbot.github.io/"
 languageCode = "en-us"
 
-title = "Reference Material"
+title = "Test"
 
 theme = "hyde"
