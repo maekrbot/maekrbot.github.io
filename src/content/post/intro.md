@@ -4,7 +4,7 @@ title: "Intro"
 
 date: 2018-10-19T20:50:58-07:00
 
-draft: true
+draft: false
 
 url: /avocado
 categories:
